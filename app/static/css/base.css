@@ -1,0 +1,13 @@
+.index-logo{
+    width: 65px;
+}
+body{
+    background: #f3f3f3;
+}
+.main{
+    background: #fff;
+    width: 730px;
+    margin: auto;
+    overflow: hidden;
+    padding: 10px;
+}
